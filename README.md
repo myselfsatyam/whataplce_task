@@ -1,8 +1,8 @@
-# 🏢 Space Search Platform
+
 
 A modern, responsive web application for discovering and filtering unique event spaces. Built with Next.js 14, TypeScript, and Tailwind CSS, featuring real-time search, filtering, and a beautiful UI.
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
