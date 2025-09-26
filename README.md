@@ -35,7 +35,7 @@ A modern, responsive web application for discovering and filtering unique event 
 4. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
 
-## 🐳 Docker Deployment
+## Docker Deployment
 
 ### Build and Run with Docker
 
